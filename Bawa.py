@@ -71,7 +71,7 @@ def menu():
     os.system('clear')
     print logo
     print ''
-    print 'AUTHOR   : Singh/bawa3
+    print 'AUTHOR   : singhbawa786'
     print 'FACEBOOK : TERMUX TEACHER BAWA
     print 'GITHUB     : github.com/SINGHBAWA786'
     print ''
